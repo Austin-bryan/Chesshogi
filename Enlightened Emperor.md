@@ -1,0 +1,1 @@
+![[Enlightened Emperor.png]] 

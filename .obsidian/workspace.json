@@ -1,0 +1,304 @@
+{
+  "main": {
+    "id": "43dd9239ba9f53ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "be402a97ebf47a44",
+        "type": "tabs",
+        "dimension": 11.990407673860911,
+        "children": [
+          {
+            "id": "52624530a6925212",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": -357.6601848728966,
+                  "y": -10.04494143888379,
+                  "zoom": -1.0064691533118018
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled 1"
+            }
+          }
+        ]
+      },
+      {
+        "id": "230602c369ef7fb1",
+        "type": "tabs",
+        "dimension": 88.00959232613909,
+        "children": [
+          {
+            "id": "6f1af06ac0af2f97",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 197.979088920908,
+                  "y": 3666.8588107771166,
+                  "zoom": -0.3681816214323107
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "6d036316bc322434",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ideas"
+            }
+          },
+          {
+            "id": "de7a4ffb4c362517",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phoenix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phoenix"
+            }
+          },
+          {
+            "id": "e052634cde099098",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vertical Mover.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vertical Mover"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "109d1d36b8d53fb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7c149bedc20d547",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9034ab43e7835bc0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4e9aba4593473676",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7ecbaf84c9e05527",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 208.5
+  },
+  "right": {
+    "id": "60a42e98a0c6ef91",
+    "type": "split",
+    "children": [
+      {
+        "id": "ded52258c2746e16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44c7eea36bac5375",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kirin 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Kirin 2"
+            }
+          },
+          {
+            "id": "895cf04f3ab77bde",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kirin 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Kirin 2"
+            }
+          },
+          {
+            "id": "ebd1c0a46c1aa943",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c51cfb2e5222a947",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kirin 2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Kirin 2"
+            }
+          },
+          {
+            "id": "ad39e1e147f486bf",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "6d036316bc322434",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Ideas.md",
+    "Assets/psFE23.tmp",
+    "Tests.psd",
+    "Assets/psA2C8.tmp",
+    "Assets/psA4E4.tmp",
+    "Assets/psB967.tmp",
+    "Assets/psF36C.tmp",
+    "Assets/Temp 9x9 Hooks.psd",
+    "Assets/Temp 7x7.psd",
+    "Assets/ps903.tmp",
+    "Assets/Template 9x9.psd",
+    "Phoenix.md",
+    "Untitled 1.canvas",
+    "Kirin+Phoenix 4.md",
+    "Kirin+Phoenix.md",
+    "Kirin+Phoenix 2.md",
+    "Kirin+Phoenix 3.md",
+    "Kirin + Phoenix 1.md",
+    "Images/Kirin+Phoenix 4.png",
+    "Images/Kirin+Phoenix 3.png",
+    "Images/Kirin+Phoenix 2.png",
+    "Images/Kirin+Phoenix.png",
+    "Phoenix 2.md",
+    "Phoenix 3.md",
+    "Phoenix 4.md",
+    "Prince.md",
+    "Images/Phoenix 4.png",
+    "Images/Phoenix 3.png",
+    "Images/Phoenix 2.png",
+    "Kirin.md",
+    "Kirin 2.md",
+    "Kirin 3.md",
+    "Kirin 4.md",
+    "Images/Kirin 4.png",
+    "Images/Kirin 3.png",
+    "Images/Kirin 2.png",
+    "Fire Ox.md",
+    "Fire Boar.md",
+    "Bishop.md",
+    "Rook General.md",
+    "Bishop General.md",
+    "Great General.md",
+    "Drunk Elephant.md",
+    "Little Standard.md",
+    "Rear Standard.md",
+    "Center Standard.md"
+  ]
+}
