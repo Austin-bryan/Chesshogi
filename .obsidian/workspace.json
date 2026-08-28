@@ -6,7 +6,6 @@
       {
         "id": "be402a97ebf47a44",
         "type": "tabs",
-        "dimension": 11.990407673860911,
         "children": [
           {
             "id": "52624530a6925212",
@@ -14,35 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled 1.canvas",
-                "viewState": {
-                  "x": -357.6601848728966,
-                  "y": -10.04494143888379,
-                  "zoom": -1.0064691533118018
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled 1"
-            }
-          }
-        ]
-      },
-      {
-        "id": "230602c369ef7fb1",
-        "type": "tabs",
-        "dimension": 88.00959232613909,
-        "children": [
-          {
-            "id": "6f1af06ac0af2f97",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
                 "file": "Untitled.canvas",
                 "viewState": {
-                  "x": 197.979088920908,
-                  "y": 3666.8588107771166,
-                  "zoom": -0.3681816214323107
+                  "x": 470.05181812113665,
+                  "y": 688.1045482193787,
+                  "zoom": 0.05851181077460476
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -50,49 +25,35 @@
             }
           },
           {
-            "id": "6d036316bc322434",
+            "id": "abc8c589f9c33e35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas.md",
+                "file": "Gameplay Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ideas"
+              "title": "Gameplay Notes"
             }
           },
           {
-            "id": "de7a4ffb4c362517",
+            "id": "0d0fda10c6d31bf6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phoenix.md",
+                "file": "Piece Editor Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phoenix"
-            }
-          },
-          {
-            "id": "e052634cde099098",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vertical Mover.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vertical Mover"
+              "title": "Piece Editor Notes"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +73,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -145,7 +108,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kirin 2.md",
+                "file": "Diagram Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kirin 2"
+              "title": "Backlinks"
             }
           },
           {
@@ -184,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kirin 2.md",
+                "file": "Diagram Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Kirin 2"
+              "title": "Outgoing links"
             }
           },
           {
@@ -213,17 +177,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kirin 2.md",
+                "file": "Diagram Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kirin 2"
+              "title": "Outline"
             }
           },
           {
-            "id": "ad39e1e147f486bf",
+            "id": "1ad5bc27165cd7a0",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -242,6 +206,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -251,10 +216,36 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "6d036316bc322434",
+  "active": "0d0fda10c6d31bf6",
   "lastOpenFiles": [
+    "Piece Editor Notes.md",
+    "Gameplay Notes.md",
     "Untitled.canvas",
+    "Treacherous Fox.md",
+    "Teaching King.md",
+    "Soaring Eagle.md",
+    "Silver General.md",
+    "Side Mover.md",
+    "Running Rabbit.md",
+    "Rook General.md",
+    "Rook.md",
+    "Reverse Chariot.md",
+    "Rear Standard.md",
+    "README.md",
+    "Queen.md",
+    "Prince.md",
+    "Phoenix 4.md",
+    "Phoenix 3.md",
+    "Phoenix 2.md",
+    "Phoenix.md",
+    "Kirin 3.md",
+    "Kirin 2.md",
+    "Kirin.md",
+    "King.md",
     "Ideas.md",
+    "Horned Falcon.md",
+    "Hook Mover.md",
+    "Untitled 1.canvas",
     "Assets/psFE23.tmp",
     "Tests.psd",
     "Assets/psA2C8.tmp",
@@ -265,40 +256,15 @@
     "Assets/Temp 7x7.psd",
     "Assets/ps903.tmp",
     "Assets/Template 9x9.psd",
-    "Phoenix.md",
-    "Untitled 1.canvas",
-    "Kirin+Phoenix 4.md",
-    "Kirin+Phoenix.md",
-    "Kirin+Phoenix 2.md",
-    "Kirin+Phoenix 3.md",
-    "Kirin + Phoenix 1.md",
     "Images/Kirin+Phoenix 4.png",
     "Images/Kirin+Phoenix 3.png",
     "Images/Kirin+Phoenix 2.png",
     "Images/Kirin+Phoenix.png",
-    "Phoenix 2.md",
-    "Phoenix 3.md",
-    "Phoenix 4.md",
-    "Prince.md",
     "Images/Phoenix 4.png",
     "Images/Phoenix 3.png",
     "Images/Phoenix 2.png",
-    "Kirin.md",
-    "Kirin 2.md",
-    "Kirin 3.md",
-    "Kirin 4.md",
     "Images/Kirin 4.png",
     "Images/Kirin 3.png",
-    "Images/Kirin 2.png",
-    "Fire Ox.md",
-    "Fire Boar.md",
-    "Bishop.md",
-    "Rook General.md",
-    "Bishop General.md",
-    "Great General.md",
-    "Drunk Elephant.md",
-    "Little Standard.md",
-    "Rear Standard.md",
-    "Center Standard.md"
+    "Images/Kirin 2.png"
   ]
 }
